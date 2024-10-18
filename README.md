@@ -104,12 +104,12 @@ The main components of this project include:
 
 ### Key Routes
 
-| Route                    | Method | Description                        |
-|--------------------------|--------|------------------------------------|
-| `/`                 | GET    | List all pages                          |
-| `/pages/{id}`            | GET    | Show a single page                 |
-| `/create`          | GET    | Form to create a new page                |
-| `/pages`                 | POST   | Store a new page                   |
+| Route                        | Method | Description                    |
+|------------------------------|--------|--------------------------------|
+| `/`                          | GET    | List all pages                 |
+| `/pages/{id}`                | GET    | Show a single page             |
+| `/create`                    | GET    | Form to create a new page      |
+| `/pages`                     | POST   | Store a new page               |
 | `/pages/{id}/content-blocks` | POST   | Add a content block to a page  |
 
 
