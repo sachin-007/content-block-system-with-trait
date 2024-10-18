@@ -115,5 +115,8 @@ The main components of this project include:
 
 Here is an example of how the page creation looks:
 
+# home page
 ![ home ](/storage/app/public/snapshots/index.png)
+
+# create page and create block
 ![ create page and add block ](/storage/app/public/snapshots/particular_page.png)
