@@ -115,5 +115,5 @@ The main components of this project include:
 
 Here is an example of how the page creation looks:
 
-![ home ](https://drive.google.com/file/d/1opkmqijXvIGPujJY3PrUuh-YPOfrSH_U/view?usp=sharing)
-![ create page and add block ](https://drive.google.com/file/d/1Sc0TW2zInJXuM3SCtCPH4FWUxiSN4xwb/view?usp=sharing)
+![ home ](/storage/app/public/snapshots/index.png)
+![ create page and add block ](/storage/app/public/snapshots/particular_page.png)
